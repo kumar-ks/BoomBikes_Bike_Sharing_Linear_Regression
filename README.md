@@ -55,9 +55,3 @@ The following files are present inside datasets folder:
 - sklearn - version 0.24.1
 - statsmodels - version 0.12.2.
 
-## Contact (GitHub)
-Created by: 
-- [Shubhanshu Kumar Singh](https://github.com/shubhanshu1995) 
-
-## Connect with me on LinkedIn:-
-- [shubhanshu001](https://www.linkedin.com/in/shubhanshu001/)
